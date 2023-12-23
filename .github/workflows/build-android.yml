@@ -1,4 +1,4 @@
-name: Build lwjgl3.2.3 Android
+name: Build lwjgl3 Android
 
 on: [push]
 
